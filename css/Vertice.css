@@ -1,0 +1,14 @@
+.navbar .nav-link
+{
+    color: white; 
+    font-weight: bold; 
+    font-size: 1.3rem; 
+}
+.navbar
+{
+  background-color: black;
+}
+
+.icone-navbar{
+  font-size: 15pt;
+}
